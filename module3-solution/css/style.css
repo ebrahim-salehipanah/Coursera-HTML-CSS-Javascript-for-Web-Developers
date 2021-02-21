@@ -1,0 +1,40 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+header {
+	margin-bottom: 100px;
+}
+
+h1 {
+	text-align: center;
+}
+
+section {
+	padding: 10px;
+	float: left;
+}
+
+section#sec1 {
+	background: #673ab7;
+}
+
+section#sec2 {
+	background: #00bcd4;
+}
+
+section#sec3 {
+	background: #4caf50;
+}
+
+section h2 {
+	float: right;
+	padding: 5px;
+	background: #ff5722;
+	border: 3px solid #333;
+}
+section p {
+	clear: left;
+}
