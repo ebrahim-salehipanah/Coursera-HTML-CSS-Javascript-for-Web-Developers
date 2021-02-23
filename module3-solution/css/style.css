@@ -17,15 +17,15 @@ section {
 	float: left;
 }
 
-section#sec1 {
+section#chicken {
 	background: #673ab7;
 }
 
-section#sec2 {
+section#beef {
 	background: #00bcd4;
 }
 
-section#sec3 {
+section#sushi {
 	background: #4caf50;
 }
 
