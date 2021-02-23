@@ -17,18 +17,6 @@ section {
 	float: left;
 }
 
-#chicken {
-	background: #673ab7;
-}
-
-#beef {
-	background: #00bcd4;
-}
-
-#sushi {
-	background: #4caf50;
-}
-
 section h2 {
 	float: right;
 	padding: 5px;
